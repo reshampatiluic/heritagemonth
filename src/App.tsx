@@ -71,7 +71,7 @@ function App() {
       {step === 2 && (
         <div className="screen slide-in">
           <div className="message">
-            <p>If you will be my b*@ner? 💕</p>
+            <p>If you will be my taco? 💕</p>
           </div>
           <img src={cat2} alt="cat2" className="cat" />
 
